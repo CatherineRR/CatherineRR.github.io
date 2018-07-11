@@ -181,6 +181,23 @@ padding: var(--spacer) 0;
 FORMS
  */
 
+ label {
+     display: block;
+     font-weight: bold;
+ }
+ 
+ input [type="text"],
+ input [type="email"] {
+     border: 1px solid var(--border-color);
+     padding: 10px;
+     border-radius: 4px;
+     width: 480px;
+     max-width: 100%;
+     margin-bottom: var()
+ }
+
+
+
 /* ------------------------------
 MODULES
  */
