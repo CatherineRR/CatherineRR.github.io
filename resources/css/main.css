@@ -334,7 +334,7 @@ FORMS
      border-radius: 4px;
      width: 480px;
      max-width: 100%;
-     margin-bottom: var()
+     margin-bottom: var(--spacer);
  }
 
 input [type="submit"],
